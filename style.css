@@ -5,9 +5,14 @@ body {
 }
 
 .container {
-  max-width: 620px;
+  max-width: 960px;
   margin: 0 auto;
   padding: 0 20px;
+}
+img {
+    max-width: 50%;
+    height: auto;
+    display: block;
 }
 
 header h1 {
