@@ -9,11 +9,6 @@ body {
   margin: 0 auto;
   padding: 0 20px;
 }
-img {
-    max-width: 50%;
-    height: auto;
-    display: block;
-}
 
 header h1 {
   text-align: center;
